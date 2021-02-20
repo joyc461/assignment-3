@@ -50,7 +50,7 @@ body {
   margin-right: 23px;
 }
 
-.money-to-wallet .row {
+.money-to-wallet .money-wallet-ml-mb{
   margin-left: 0;
   margin-bottom: 10px;
 }
@@ -89,7 +89,7 @@ body {
 
 .container .money-to-wallet {
   padding: 20px;
-  width: 70vw;
+  /*width: 70vw;*/
   margin: 16px auto;
   box-shadow: 0 0 10px 0 #d6d3d3b0;
   /*height: 60vh;*/
@@ -126,16 +126,14 @@ body {
     margin: 30px auto;
 }*/
 
-.sponsor-content .ssl-certificate {
-  width: 10%;
-}
+
 .sponsor-content .ssl-certificate img {
   margin-top: 40px;
   height: 85px;
   margin-left: 12px;
 }
 .sponsor-content .sponsor-container {
-  width: 90%;
+ width: 90%;
   border: 2px solid #000;
   margin: 40px auto;
   display: flex;
@@ -156,10 +154,10 @@ body {
 .sponsor-container .secure-payment .img-text {
   font-weight: bold;
 }
-.payment-options .row {
+.payment-options .payment-mb-mt-ml {
   margin-bottom: 30px;
   margin-top: 10px;
-  margin-left: 35px;
+  margin-left: 2px;
 }
 .payment-options .row img {
   height: 42px;
